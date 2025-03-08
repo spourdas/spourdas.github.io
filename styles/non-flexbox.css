@@ -1,0 +1,16 @@
+.container {
+    text-align: center;
+    background: lightgray;
+    padding: 50px 0;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    margin: 10px;
+}
